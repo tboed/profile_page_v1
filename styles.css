@@ -57,7 +57,14 @@ nav {
 
 header {
   text-align: center;
-  background: url('images/20180807_125105.jpg') no-repeat top center ;
+  background: url('images/rsz_20180807_125105.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+.hobbies {
+  text-align: center;
+  background: url('images/rsz_1rsz_img_2734.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
